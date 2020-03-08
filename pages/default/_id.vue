@@ -1,6 +1,6 @@
 <template>
     <div>
-        <h3>Hello----------揭秘商品id</h3>
+        <h3>Hello----------揭秘商品id值</h3>
         {{$route.params.id}}
     </div>
 </template>
